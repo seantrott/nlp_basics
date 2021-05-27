@@ -8,4 +8,8 @@ This tutorial covers:
 - Basic text processing in Python  
 - Using packages like `nltk` and `spacy`
 
-The slides can be found 
+Tutorial resources:
+
+- [Jupyter notebook](https://seantrott.github.io/nlp_basics/)  
+- [Slide versions of the tutorial](https://seantrott.github.io/nlp_basics/slides#/)  
+- [Video tutorial](https://www.youtube.com/watch?v=V3AxgY36RWI)
